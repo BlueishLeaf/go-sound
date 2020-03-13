@@ -5,7 +5,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/padster/go-sound/types"
+	"github.com/BlueishLeaf/go-sound/types"
 )
 
 // A karplusStrong is parameters to the algorithm that synthesizes a string sound

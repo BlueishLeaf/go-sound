@@ -2,9 +2,8 @@ package sounds
 
 import (
 	"fmt"
+	"github.com/BlueishLeaf/go-sound/types"
 	"time"
-
-	"github.com/padster/go-sound/types"
 )
 
 // A delay is parameters to the algorithm that adds a sound to a delayed version of itself.

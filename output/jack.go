@@ -6,7 +6,7 @@ import (
 
 	"github.com/xthexder/go-jack"
 
-	s "github.com/padster/go-sound/sounds"
+	s "github.com/BlueishLeaf/go-sound/sounds"
 )
 
 type jackContext struct {

@@ -3,7 +3,7 @@ package sounds
 import (
 	"fmt"
 
-	"github.com/padster/go-sound/types"
+	"github.com/BlueishLeaf/go-sound/types"
 )
 
 // A denseIIR is parameters to an Infinite Impulse Response filter, which generates
