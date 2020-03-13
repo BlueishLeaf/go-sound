@@ -84,5 +84,4 @@ func playSamples(s sounds.Sound, sync_ch chan int, pa *PulseMainLoop) {
 		sampleCount += finishedAt
 		st.Write(buffer[0:finishedAt], SEEK_RELATIVE)
 	}
-	fmt.Printf("Samples written: %d\n", sampleCount)
 }
